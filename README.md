@@ -4,5 +4,5 @@
 
 This is the course project for my final project course
 
-![screenshot](https://ibb.co/f1NnTfd)
+![screenshot](https://pasteboard.co/O3JueYK7tRP2.png)
 
